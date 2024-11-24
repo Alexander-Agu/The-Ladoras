@@ -11,9 +11,9 @@ A terminal based Hotel Booking System
 
 # Hotel rooms should vary by packages
 The higher the rate of the package the more expensive rooms in that catagory are
-Common -> 1Star
-Intermidiate -> 2Star
-Precidential -> 3Star
+* Common -> 1Star
+* Intermidiate -> 2Star
+* Precidential -> 3Star
 
 # Properties of a room
 1. Type of package
