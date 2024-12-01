@@ -7,7 +7,7 @@ room_availability = {
 
 # Package discription
 type_package = [
-    "R1500 a night\nFirst floor\nMaster Bedroom\nShower & Toilet\n",
+    "R1500 a night\nFirst floor\nMaster Bedroom\nShower & Toilet",
     "R3000 a night\nSecond floor\nMaster Bedroom & 1 extra room\nShower & Toilet\nStudy",
     "R5000 a night\nThird floor\nMaster Bedroom & 3 extra room\nShower & Toilet\nStudy\nBelcony",
 ]

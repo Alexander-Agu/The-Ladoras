@@ -1,4 +1,6 @@
 import calendar
+import datetime as dt
+import os.path
 from rooms import room_availability
 from rooms import type_package
 
