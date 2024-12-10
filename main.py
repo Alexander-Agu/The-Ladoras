@@ -30,7 +30,7 @@ def hotel_booking_system():
 
         gender = input("Are you male or female? ").strip().capitalize()
         save_user_details(name, surname, email, age, gender)
-        print(f"Welcome to Hotel X, {name} {surname}! Your details have been saved for future reference.")
+        print(f"Welcome to The L'adora Hotel, {name} {surname}! Your details have been saved for future reference.")
 
     elif question_1 in "no":
         name = input("Enter your first name: ").strip()
