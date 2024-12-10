@@ -2,7 +2,7 @@
 room_availability = {
     "common": 2,
     "standard": 3,
-    "precidential": 5,
+    "presidential suite": 5,
 }
 
 # Package discription

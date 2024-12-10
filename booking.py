@@ -54,7 +54,7 @@ def book_room():
             print("\nInvalid room type. Please select a valid option.")
 
     # Price calculation
-    prices = {"common": 1500, "standard": 3000, "precidential": 5000}
+    prices = {"common": 1500, "standard": 3000, "presidential": 5000}
     nights = check_out_date - check_in_date
     total_price = prices[room_choice] * nights
     print(f"The price for {room_choice} package is R{prices[room_choice]} per night.")
